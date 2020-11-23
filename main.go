@@ -1,10 +1,7 @@
 package main
 
-import (
-	"fmt"
-	"programmers"
-)
+import "GoLang/baekjoon"
 
 func main() {
-	fmt.Println(programmers.Solution(6))
+	baekjoon.Example()
 }
