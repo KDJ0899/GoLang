@@ -1,6 +1,6 @@
 package main
 
-import "GoLang/baekjoon"
+import "GoLang-Algorithm/baekjoon"
 
 func main() {
 	baekjoon.Example()
