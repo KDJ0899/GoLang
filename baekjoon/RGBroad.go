@@ -1,12 +1,11 @@
-package main
+package baekjoon
 
 import (
 	"fmt"
 )
 
 //백준 1149번 RGB거리 문제 풀이
-
-func main() {
+func RGBroad() {
 	var n int
 	fmt.Scanln(&n)
 
